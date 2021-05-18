@@ -7,7 +7,7 @@ orbs:
 # Orchestrate or schedule a set of jobs
 workflows:
   build:
-    jobs:
+    jobs: 
         - katalon-studio/run:
                 version: "latest"
                 command_arguments: '-browserType="Chrome" -retry=2 -statusDelay=15 -testSuitePath="Test Suites/TS_RegressionTest"'
