@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>heatlhcare-sample</name>
+   <name>HealthCare-CI</name>
    <tag></tag>
    <UUID>3368581f-077d-45aa-b12c-ac335eb6f779</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/srivatsa/Katalon Studio/HealthCare-Sample/healthcare-sample.prj</projectFileLocation>
+   <projectFileLocation>/Users/srivatsa/Katalon Studio/HealthCare-CI/HealthCare-CI.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
